@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xmls="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_persona"
+        xmls:showAsAction="always"
+        android:title="menu_add"
+        android:icon="@drawable/ic_add_black_24dp"/>
+
+    <item
+        android:id="@+id/logoff"
+        android:title="Cerrar sesión"/>
+
+</menu>
